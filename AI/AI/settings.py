@@ -38,6 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'anti_porno',
+    'recommandation',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
